@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DynamicProxy.BusinessLogic.Objects/bin/Debug/net6.0
+/DynamicProxy.BusinessLogic.Objects/obj
+/DynamicProxy.Experiments/bin/Debug/net6.0
+/DynamicProxy.Experiments/obj/Debug/net6.0
+/DynamicProxy.Experiments/obj
